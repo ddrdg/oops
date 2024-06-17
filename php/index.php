@@ -6,7 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello</h1>
-    <a href="/hello">Hello again</a>
+    <h1>Hello 2</h1>
+    <a href="/hello">Hello again</a><br>
+    <?php
+    echo "No Hello";
+    ?>
 </body>
 </html>
